@@ -4,14 +4,14 @@ void setup() {
 
 void loop() {
 DigiKeyboard.delay(500);
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
-DigiKeyboard.print("Pau molinho");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
+DigiKeyboard.print("Your text");
 
 
 
